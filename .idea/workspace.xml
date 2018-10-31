@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca88d42c-f2e9-4ab3-848e-ff92416bb8e3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/webserver/active_program" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/active_program" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/Config0.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/Config0.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/Config0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/LOCATED_VARIABLES.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/POUS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/POUS.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/Res0.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/Res0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/VARIABLES.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/compile_win.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/custom_layer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/custom_layer.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/dnp3.disabled" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/dnp3_dummy.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/glueVars.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/glue_generator.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/hardware_layer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/hardware_layers/blank.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/hardware_layers/fischertechnik.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/hardware_layers/neuron.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/hardware_layers/pixtend.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/hardware_layers/pixtend2l.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/hardware_layers/pixtend2s.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/hardware_layers/raspberrypi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/hardware_layers/raspberrypi_old.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/hardware_layers/simulink.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/hardware_layers/unipi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/interactive_server.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/ladder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/lib/accessor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/lib/iec_std_FB.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/lib/iec_std_functions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/lib/iec_std_lib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/lib/iec_types.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/lib/iec_types_all.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/modbus.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/modbus/modbus-rtu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/modbus/modbus-tcp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/modbus/modbus-version.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/modbus/modbus.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/modbus_master.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/openplc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/server.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_10-24/st_optimizer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/Config0.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/Config0.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/Config0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/LOCATED_VARIABLES.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/POUS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/POUS.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/Res0.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/Res0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/VARIABLES.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/custom_layer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/custom_layer.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/dnp3.disabled" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/dnp3_dummy.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/glueVars.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/glue_generator.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/hardware_layer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/hardware_layers/blank.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/hardware_layers/fischertechnik.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/hardware_layers/neuron.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/hardware_layers/pixtend.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/hardware_layers/pixtend2l.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/hardware_layers/pixtend2s.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/hardware_layers/raspberrypi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/hardware_layers/raspberrypi_old.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/hardware_layers/simulink.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/hardware_layers/unipi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/interactive_server.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/ladder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/lib/accessor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/lib/iec_std_FB.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/lib/iec_std_functions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/lib/iec_std_lib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/lib/iec_types.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/lib/iec_types_all.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/modbus.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/modbus_master.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/openplc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core.bak_original/server.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core/hardware_layer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/core/hardware_layer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core/interactive_server.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/core/interactive_server.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/core/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core/modbus.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/core/modbus.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core/modbus_master.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/core/modbus_master.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core/openplc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/core/openplc.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/core/server.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/core/server.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/iec2c.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/libgcc_s_sjlj-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/libstdc++-6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/openplc.db" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/openplc.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/scripts/active_program" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/scripts/active_program" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/scripts/compile_program.bat" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/scripts/compile_program.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/st_optimizer.exe" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="webserver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webserver/webserver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="455" column="32" lean-forward="true" selection-start-line="455" selection-start-column="32" selection-end-line="455" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="openplc.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webserver/openplc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="192" column="8" lean-forward="true" selection-start-line="192" selection-start-column="8" selection-end-line="192" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pages.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webserver/pages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="629" column="31" selection-start-line="629" selection-start-column="27" selection-end-line="629" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logs</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OpenPLC_v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenPLC_v3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpenPLC_v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenPLC_v3" type="462c0819:PsiDirectoryNode" />
+              <item name="webserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca88d42c-f2e9-4ab3-848e-ff92416bb8e3" name="Default" comment="" />
+      <created>1540951226332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540951226332</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11567164" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/webserver/pages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="629" column="31" selection-start-line="629" selection-start-column="27" selection-end-line="629" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/docker/api/container.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="212" column="8" selection-start-line="212" selection-start-column="8" selection-end-line="212" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/dockerpty/pty.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="125" column="13" selection-start-line="125" selection-start-column="13" selection-end-line="125" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webserver/webserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="455" column="32" lean-forward="true" selection-start-line="455" selection-start-column="32" selection-end-line="455" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webserver/openplc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="192" column="8" lean-forward="true" selection-start-line="192" selection-start-column="8" selection-end-line="192" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
